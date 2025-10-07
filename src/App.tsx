@@ -42,7 +42,7 @@ const App: React.FC = () => {
           </Routes>
         </main>
         <footer className="footer">
-          <p>&copy; 2024 Qcart. Quantum Shopping Experience.</p>
+          <p>&copy; 2025 Qcart. Quantum Shopping Experience.</p>
         </footer>
       </div>
     </Router>
