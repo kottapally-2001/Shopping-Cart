@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kottapally-2001/Shopping-Cart.git/static/css/main.74979473.css",
+    "main.js": "/kottapally-2001/Shopping-Cart.git/static/js/main.9e426da5.js",
+    "static/js/453.eb86d872.chunk.js": "/kottapally-2001/Shopping-Cart.git/static/js/453.eb86d872.chunk.js",
+    "index.html": "/kottapally-2001/Shopping-Cart.git/index.html",
+    "main.74979473.css.map": "/kottapally-2001/Shopping-Cart.git/static/css/main.74979473.css.map",
+    "main.9e426da5.js.map": "/kottapally-2001/Shopping-Cart.git/static/js/main.9e426da5.js.map",
+    "453.eb86d872.chunk.js.map": "/kottapally-2001/Shopping-Cart.git/static/js/453.eb86d872.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74979473.css",
+    "static/js/main.9e426da5.js"
+  ]
+}
