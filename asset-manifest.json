@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kottapally-2001/Shopping-Cart.git/static/css/main.74979473.css",
-    "main.js": "/kottapally-2001/Shopping-Cart.git/static/js/main.bd05792f.js",
-    "static/js/453.eb86d872.chunk.js": "/kottapally-2001/Shopping-Cart.git/static/js/453.eb86d872.chunk.js",
-    "index.html": "/kottapally-2001/Shopping-Cart.git/index.html",
-    "main.74979473.css.map": "/kottapally-2001/Shopping-Cart.git/static/css/main.74979473.css.map",
-    "main.bd05792f.js.map": "/kottapally-2001/Shopping-Cart.git/static/js/main.bd05792f.js.map",
-    "453.eb86d872.chunk.js.map": "/kottapally-2001/Shopping-Cart.git/static/js/453.eb86d872.chunk.js.map"
+    "main.css": "/Shopping-Cart/static/css/main.74979473.css",
+    "main.js": "/Shopping-Cart/static/js/main.67f39a09.js",
+    "static/js/453.eb86d872.chunk.js": "/Shopping-Cart/static/js/453.eb86d872.chunk.js",
+    "index.html": "/Shopping-Cart/index.html",
+    "main.74979473.css.map": "/Shopping-Cart/static/css/main.74979473.css.map",
+    "main.67f39a09.js.map": "/Shopping-Cart/static/js/main.67f39a09.js.map",
+    "453.eb86d872.chunk.js.map": "/Shopping-Cart/static/js/453.eb86d872.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74979473.css",
-    "static/js/main.bd05792f.js"
+    "static/js/main.67f39a09.js"
   ]
 }
