@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { useCart } from './hooks/useCart';
 import Navbar from './components/common/Navbar';
 import Home from './pages/Home';
@@ -41,6 +41,9 @@ const App: React.FC = () => {
             />
           </Routes>
         </main>
+        <footer className="footer">
+          <p>&copy; 2024 Qcart. Quantum Shopping Experience.</p>
+        </footer>
       </div>
     </Router>
   );
